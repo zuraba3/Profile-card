@@ -20,8 +20,8 @@ This is a solution to the [Profile-card-component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Profile-card)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Profile-card/)
 
 ## My process
 
